@@ -1,0 +1,8 @@
+# str=input("enter the string:")
+# print(str[::-1])
+# print(str[1:14:2])
+# n=int(input("enter the value:"))
+n=int(input("enter the value:"))
+print(n)
+v=str(n)
+print(len(v))
